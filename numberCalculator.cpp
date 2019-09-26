@@ -25,7 +25,7 @@ int main() {
     std::cin >> number1;
 
     // process
-    answer = number + number1
+    answer = number + number1;
 
     // output
     std::cout << "\nThe answer is: " << answer << std::endl;
